@@ -1,13 +1,10 @@
 [workspace]
 members = [
     "askama",
-    "askama_actix",
     "askama_axum",
     "askama_derive",
     "askama_escape",
     "askama_parser",
-    "askama_rocket",
-    "askama_warp",
     "testing",
 ]
 
